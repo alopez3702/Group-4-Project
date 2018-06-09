@@ -50,5 +50,5 @@ ds = dataset[['_index','_source__message']] #takes the columns that will be used
 
 #removes rows from a DataFrame
 #just in case certain rows need to be removed from the data
-dataset = dataset[dataset._source__message != '_source__message'] #removes rows where in the selected column (dataset._source__message) the value is not the selected value
+dataset = dataset[dataset._source__message != '_source__message'] #removes rows where in the selected column (dataset._source__message) the value is the selected value
 #print(dataset.head(5))
