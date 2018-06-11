@@ -8,14 +8,18 @@ Created on Thu Jun  7 19:57:39 2018
 
 import json
 import csv
-import pandas
+import pandas as pd
 import scipy
-import numpy
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib import style
+style.use('ggplot')
+from sklearn.cluster import KMeans
+from sklearn import preprocessing, cross_validation
 
 #read the .json file; put contents in a list
 data = []
 with open("domoticz-2018-03-19.json") as f:
-    s = json.loads(f)
     for line in f:
         data.append(json.loads(line))
 
@@ -36,11 +40,11 @@ jtc.close()
         #But, I found some ways to overcome this issue, simply by deleting the row
 c = "domoticz-2018-03-20.csv" #this .csv file I got by getting "domoticz-2018-03-20.json.bz2" from GitHub Safehouse data, unzipping it, and using an online converter to turn it into a .csv
 names = ['_index', '_tpye', '_id', '_score', '_source__subject', '_source__status', '_source__user', '_source__Time', '_source__message', '_source__priority']
-dataset = pandas.read_csv(c, names=names)
+dataset = pd.read_csv(c, names=names)
 
 #Puts DataFrame into an array
 array = dataset.values
-array = numpy.delete(array, (0), axis=0) #deletes first row in array, since in this example the first row repeats the column names
+array = np.delete(array, (0), axis=0) #deletes first row in array, since in this example the first row repeats the column names
 #print(array)
 
 #makes a new DataFrame with only certain columns of previous DataFrame
@@ -78,4 +82,4 @@ def handle_non_numeric_data(dataset):
     return dataset
 
 dataset = handle_non_numeric_data(dataset)
-print(dataset.head())
+#print(dataset.head())
