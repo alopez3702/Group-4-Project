@@ -57,20 +57,21 @@ ds = dataset[['_index','_source__message']] #takes the columns that will be used
 dataset = dataset[dataset._source__message != '_source__message'] #removes rows where in the selected column (dataset._source__message) the value is the selected value
 #print(dataset.head(5))
 
+#!!!!!!!!!!!!!!!!!!!!!!!!
 #handling non-numeric data
 #Essentailly, this code snippet enumerates every non-numerical data point.
 #Note: Not sure how turning words into numbers affects the data. Does this ruin our data?
 #This code is used to make dataset actually usable with machine learning algorithms.
 dataset.convert_objects(convert_numeric=True)
-dataset.fillna(0, inplace=True)
+dataset.fillna(0, inplace=True) #fill in every Nan value with 0
 
-def handle_non_numeric_data(dataset):
+def handle_non_numeric_data(dataset): #method that enumerates data
     columns = dataset.columns.values
     for column in columns:
         text_digit_vals = {}
         def convert_to_int(val):
             return text_digit_vals[val]
-        if dataset[column].dtype != np.int64 and dataset[column].dtype != np.float64:
+        if dataset[column].dtype != np.int64 and dataset[column].dtype != np.float64: #np is numpy library, cause numpy was imported as np (see imports on top of page)
             column_contents = dataset[column].values.tolist()
             unique_elements = set(column_contents)
             x = 0
