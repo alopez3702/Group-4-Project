@@ -4,7 +4,7 @@ Created on Wed Jun 13 15:15:34 2018
 
 @author: Andre
 """
-
+#not all these imports are needed, i think you just need json and pandas
 import json
 import pandas as pd
 import scipy
@@ -16,13 +16,28 @@ from sklearn.cluster import KMeans
 from sklearn import preprocessing, cross_validation
 from pandas.io.json import json_normalize
 
-#take data from .json and put it in a DataFrame
+#take data from only one.json file and put it in a DataFrame
 data = []
 with open("domoticz-2018-03-19.json") as fp:
     for line in fp:
         data.append(json.loads(line))
     df = pd.DataFrame.from_dict(json_normalize(data), orient='columns')
 print(df.head(20))
+
+#!!!!!!!!!!!!
+#read from multiple json files in a folder and parse the data
+data = [] #list to store data
+path = 'C:/Users/Andre/.spyder-py3/JSON_Files' #make a folder and put all json files u want to use in it.
+                                               #This value should be the path to that folder
+                                                #NOTE: the .py file and the .json files need to be in the same location
+                                                #I would make a new folder, write the .py file in that folder, and only store it and json files in the folder
+listing = os.listdir(path)
+for infile in listing: #for every file in this folder
+    if infile.endswith(".json"): #if it's a json file
+        for line in open(infile): #read every line of the file
+            data.append(json.loads(line)) #put every line into the list
+df = pd.DataFrame.from_dict(json_normalize(data), orient='columns') #put data from list into a DataFrame
+#look on manipData2.py for other methods on how to change data in the DataFrame
 
 #describe our dataset
 print(df.shape)
