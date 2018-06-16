@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun 13 15:15:34 2018
@@ -38,6 +39,23 @@ for infile in listing: #for every file in this folder
             data.append(json.loads(line)) #put every line into the list
 df = pd.DataFrame.from_dict(json_normalize(data), orient='columns') #put data from list into a DataFrame
 #look on manipData2.py for other methods on how to change data in the DataFrame
+
+#format data
+
+#choose certain columns
+df = df[['_id','_source.message']]
+
+ #convert _id column to datetime
+df._id = pd.to_datetime(df._id)
+
+ #show only time from date time
+df['time'] = [d.time() for d in df['_id']]
+
+ #show only date from date time
+df['dates'] = [d.time() for d in df['_id']]
+
+#sort values by specified column
+df = df.sort_values(by=['_id'])
 
 #describe our dataset
 print(df.shape)
