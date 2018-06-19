@@ -65,3 +65,19 @@ pd.set_option('precision', 3)
 pd.set_option('display.max_columns', None)
 pd.DataFrame([range(10)])
 print(df.describe())
+
+#Moving misplaced data
+numRows = df.shape[0]
+print (df.shape[0])
+i = 0
+while i<numRows:
+    if (df.loc[i, '_source.MESSAGE'] != 'nan'):
+        misplacedData = df.loc[i, '_source.MESSAGE']
+        misplacedData1 = df.loc[i, '_source.SUBJECT']
+        df.at[i, '_source.message'] = misplacedData + ' ' + misplacedData1
+    i+=1
+    
+#Trims dataframe of columns just copied
+df.drop('_source.MESSAGE', axis=1, inplace=True)
+df.drop('_source.PRIORITY', axis=1, inplace=True)
+df.drop('_source.SUBJECT', axis=1, inplace=True)
