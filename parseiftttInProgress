@@ -1,0 +1,55 @@
+import pandas as pd
+import json
+from pandas.io.json import json_normalize
+import os
+
+data_ifttt = []
+data_ifttt_intr = []
+
+#parse only ifttt files
+def parseifttt(d):
+    path = 'C:/Users/Andre/.spyder-py3/JSON_Files/ifttt/normal'
+    listing = os.listdir(path)
+    for infile in listing:
+        if infile.endswith(".json"):
+            for line in open(infile):
+                d.append(json.loads(line))
+    return d
+
+#parse ifttt files with intrusion data
+def parseiftttIntrusion(d):
+    path = 'C:/Users/Andre/.spyder-py3/JSON_Files/ifttt/int'
+    listing = os.listdir(path)
+    for infile in listing:
+        if infile.endswith(".json"):
+            for line in open(infile):
+                d.append(json.loads(line))
+    return d
+
+data_ifttt = parseifttt(data_ifttt)
+data_ifttt_intr = parseiftttIntrusion(data_ifttt_intr)
+df_ifttt = pd.DataFrame.from_dict(json_normalize(data_ifttt), orient='columns')
+df_ifttt_intr = pd.DataFrame.from_dict(json_normalize(data_ifttt_intr), orient='columns')
+df_ifttt['intrusion'] = [0] * df_ifttt.shape[0]
+df_ifttt_intr['intrusion'] = [1] * df_ifttt_intr.shape[0]
+
+#fill NaN values in ifttt._source.message column
+n = 0
+for i in df_ifttt_intr["_source.message"].isnull():
+    if i:
+        df_ifttt_intr["_source.message"][n] = df_ifttt_intr["_source.status"][n]
+    n = n + 1
+
+#sort the data in ifttt
+df_ifttt = df_ifttt[['_id','_source.message', '_source.device', 'intrusion']]
+df_ifttt_intr = df_ifttt_intr[['_id','_source.message', '_source.device', 'intrusion']]
+df_ifttt = df_ifttt.append(df_ifttt_intr, ignore_index=True)
+df_ifttt._id = pd.to_datetime(df_ifttt._id)
+df_ifttt = df_ifttt.sort_values(by=['_source.device', '_id'])
+
+#format display
+pd.set_option('display.width', 200)
+pd.set_option('display.max_columns', None)
+pd.set_option('date_yearfirst', True)
+pd.set_option('display.max_rows', 700)
+print(df_ifttt)
