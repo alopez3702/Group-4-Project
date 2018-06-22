@@ -1,0 +1,40 @@
+import pandas as pd
+import json
+from pandas.io.json import json_normalize
+import os
+
+data_ifttt = []
+
+def parseifttt(d):
+    path = 'C:/Users/Andre/.spyder-py3/JSON_Files/ifttt'
+    listing = os.listdir(path)
+    for infile in listing:
+        if infile.endswith(".json"):
+            for line in open(infile):
+                d.append(json.loads(line))
+    return d
+    
+data_ifttt = parseifttt(data_ifttt)
+df_ifttt = pd.DataFrame.from_dict(json_normalize(data_ifttt), orient='columns')
+df_ifttt['intrusion'] = [0] * df_ifttt.shape[0]
+df_ifttt = df_ifttt[['_id','_source.message', '_source.device', 'intrusion']]
+df_ifttt._id = pd.to_datetime(df_ifttt._id)
+df_ifttt['Sensor Type'] = df_ifttt['_source.device']
+df_ifttt['Sensor State'] = df_ifttt['_source.message']
+
+#label intrusion data
+df_ifttt['dates'] = [d.date() for d in df_ifttt['_id']]
+n = 0
+for i in df_ifttt['dates']:
+    if i.strftime('%Y-%m-%d') == "2018-04-18":
+        df_ifttt['intrusion'][n] = 1
+    n = n + 1
+df_ifttt = df_ifttt[['_id', 'Sensor Type', 'Sensor State', 'intrusion']]
+df_ifttt = df_ifttt.sort_values(by=['Sensor Type', '_id'])
+
+#format display
+pd.set_option('display.width', 200)
+pd.set_option('display.max_columns', None)
+pd.set_option('date_yearfirst', True)
+pd.set_option('display.max_rows', 500)
+print(df_ifttt)
