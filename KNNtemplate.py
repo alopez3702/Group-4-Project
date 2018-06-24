@@ -31,7 +31,7 @@ y_pred = classifier.predict(X_test)
 # Making the Confusion Matrix
 # Matrix shows the amount of correct predictions
 from sklearn.metrics import confusion_matrix
-cm = confusion_matrix(y_test, y_pred)
+cm = confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1))
 
 # Visualising the Training set results
 from matplotlib.colors import ListedColormap
