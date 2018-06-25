@@ -1,0 +1,26 @@
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 00:51:29 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T00:51:29.343Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 01:56:05 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T01:56:05.118Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 09:09:20 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T09:09:20.578Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 19:31:29 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T19:31:29.552Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 20:51:30 GMT+0000 (UTC)","_score":1,"_source":{"time":"April 15, 2018","device":"miniCam","message":"motion","location":"Exterior-FrontDoor","timestamp":"2018-04-15T20:51:30.893Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 22:31:46 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T22:31:46.640Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 01:59:13 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T01:59:13.190Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 06:02:31 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T06:02:31.194Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 14:21:43 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T14:21:43.111Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 19:24:12 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T19:24:12.593Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 02:59:14 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T02:59:14.849Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 07:04:37 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T07:04:37.211Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 07:06:27 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T07:06:27.565Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 11:16:34 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T11:16:34.347Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 12:17:23 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T12:17:23.511Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 13:21:19 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T13:21:19.347Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 17:11:37 GMT+0000 (UTC)","_score":1,"_source":{"time":"April 15, 2018","device":"miniCam","message":"motion","location":"Exterior-FrontDoor","timestamp":"2018-04-15T17:11:37.527Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 20:31:44 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T20:31:44.032Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 08:11:07 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T08:11:07.465Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 15:19:13 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T15:19:13.676Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 18:24:06 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T18:24:06.100Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 18:31:10 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T18:31:10.571Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 19:03:22 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Plug1","message":"Activated","timestamp":"2018-04-15T19:03:22.268Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 09:11:12 GMT+0000 (UTC)","_score":1,"_source":{"device":"Room1Lamp","message":"Off","timestamp":"2018-04-15T09:11:12.689Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 17:11:38 GMT+0000 (UTC)","_score":1,"_source":{"time":"April 15, 2018","device":"miniCam","message":"motion","location":"Exterior-FrontDoor","timestamp":"2018-04-15T17:11:38.226Z"}}
+{"_index":"ifttt-2018-04-15","_type":"webhook","_id":"Sun Apr 15 2018 20:24:18 GMT+0000 (UTC)","_score":1,"_source":{"device":"Plug1","message":"Activated","time":" ","timestamp":"2018-04-15T20:24:18.914Z"}}
