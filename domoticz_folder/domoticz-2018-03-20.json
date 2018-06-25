@@ -1,0 +1,237 @@
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:14:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:27 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:19:33 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:14 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:24:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:28:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:32:41 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:49:00 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:55:58 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:57:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:22:29 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:27:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:42:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:15:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:42:42 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:01:17 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:08:17 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:24:00 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:54:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:55:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:15:27 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:54:26 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:37:58 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:51:35 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:38:41 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:50:32 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:55:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:20:12 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:28:40 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:00:43 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:07:37 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:16:40 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:34:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:50:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:59:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:15:23 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:53:22 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:00:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:05:09 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:08:27 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:51:42 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:54:21 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:05:45 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:06:04 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:16:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:43:51 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:53:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:01:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:02:46 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:59:48 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:01:15 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:23:12 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:25:21 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:10:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:13:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:35:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:40:53 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:52:59 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:35:03 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Front Door","status":"unlocked","user":"Manual Unlock","Time":" March 20, 2018 at 12:34PM"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:36:03 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:40:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:53:48 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:10:34 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:34:46 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:19:20 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:22:23 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Unlocked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:22:38 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Locked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:57:10 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:20:39 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:13:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:19:07 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:53:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:54:13 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Unlocked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:54:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Locked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:55:04 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Locked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 17:28:33 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Lock1","status":"Unlocked"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:51:55 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:59:01 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:35:58 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:50:25 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:46:21 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:52:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:13:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:34:29 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:52:09 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:02:07 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:03:38 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:25:57 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:50:22 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:57:10 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:02:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:02:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:03:59 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:07 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:04:24 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:06:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:07:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:10:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:11:41 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:14:50 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:20:44 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:24:55 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:29:03 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:17:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:23:42 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:25:45 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:38:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:45:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:47:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:55:14 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:10:43 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:17:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:32:09 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:45:41 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:17:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:13:54 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:37:44 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:09:21 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:12:40 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:36:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:37:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:50:45 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:06:56 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:53:34 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Locked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:20:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:20:29 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:53:46 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:55:57 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:18:55 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:20:23 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:39:40 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:47:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:54:38 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Unlocked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:06:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:15:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:16:53 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:47:03 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:49:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:17:44 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:25:24 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:46:13 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:16:53 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:41 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:26:44 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:48:29 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:55:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:01:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:01:13 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:34:32 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:44:01 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:27:46 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:29:34 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:38:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:44:13 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:47:13 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:01:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:12:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:19:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:40:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:52:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:06:05 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:21:59 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:36:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:52:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:04:46 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 17:28:32 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Lock1","status":"Unlocked"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:50:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:56:20 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:14:24 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:45:48 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:26:39 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:18:58 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:20:35 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:24:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:54:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Door Unlocked","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:25:54 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:51:54 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:58:18 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:26:24 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:44:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:53:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:02:20 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:05:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:20:57 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:21:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 07:56:00 GMT-0400 (EDT)","_score":1,"_source":{"message":"Sensor swx-u-range-sensor-light-1 Last Update: 2018-03-20 06:28:45 [!= 1 minutes]","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:05:55 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:23:12 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:27:57 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:29:28 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:29:52 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:02:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:10:34 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:18:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:28:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:34:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:41:54 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:07:23 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:31:54 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:38:37 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:50:43 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 10:40:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:21:11 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 11:58:27 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:30:33 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Front Door","status":"unlocked","user":"Manny Kin","Time":" March 20, 2018 at 12:28PM"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:02:39 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:03:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:13:48 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:24:53 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:01:12 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:16:06 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:23:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:30:35 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Front Door","status":"unlocked","user":"Manny Kin","Time":" March 20, 2018 at 12:28PM"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:04:19 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:08:10 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:20:37 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:37:22 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:39:15 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:35:36 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 12:39:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 17:28:34 GMT+0000 (UTC)","_score":1,"_source":{"subject":"Lock1","status":"Unlocked"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:43:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:46:04 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:52:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:41:02 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:45:08 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:47:43 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:42:23 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:44:30 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 13:44:42 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 2","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 14:56:31 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:23:35 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:31:56 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 15:35:42 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:03:49 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm - Interior Motion - Room 1","priority":"0"}}
+{"_index":"domoticz-2018-03-20","_type":"notification","_id":"Tue Mar 20 2018 16:09:56 GMT-0400 (EDT)","_score":1,"_source":{"message":"Alarm Off - Interior Motion - Room 1","priority":"0"}}
