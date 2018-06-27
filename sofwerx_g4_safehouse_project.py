@@ -19,6 +19,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import confusion_matrix
 from matplotlib.colors import ListedColormap
+from sklearn import model_selection
 
 #!!!!!!!!!!!!
 #read from multiple json files in a folder and parse the data
