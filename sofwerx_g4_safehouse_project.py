@@ -254,7 +254,39 @@ classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 
 cm = confusion_matrix(y_test, y_pred)
-print(cm)
+result = c.score(X_test, y_test)
+
+seed = 7
+kfold = model_selection.KFold(n_splits=3, random_state=seed)
+scoring = 'roc_auc'
+results = model_selection.cross_val_score(classifier, X, y, cv=kfold, scoring=scoring)
+
+def confusionMatrixString(cm):
+    print("Confusion Matrix:")
+    print("True Positive; False Positive; True Negative; False Negative")
+    c = str(cm[0][0]) + "            " + str(cm[0][1]) + "              " + str(cm[1][0]) + "             " + str(cm[1][1])
+    return c
+
+def accuracyString(r):
+    r = r*100
+    r = round(r, 3)
+    a = "Accuracy: " + str(r)
+    return a
+
+def rocString(roc):
+    print("Area under ROC:")
+    print("Mean;  Standard Deviation")
+    mean = round(roc.mean(), 3)
+    s = round(roc.std(), 3)
+    c = str(mean) + "; " + str(s)
+    return c
+
+print(confusionMatrixString(cm))
+print()
+print(accuracyString(result))
+print()
+print(rocString(results))
+print()
 
 X_set, y_set = X_train, y_train
 #X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() - 1, stop = X_set[:, 0].max() + 1, step = 0.01),
