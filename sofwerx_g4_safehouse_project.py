@@ -264,7 +264,7 @@ results = model_selection.cross_val_score(classifier, X, y, cv=kfold, scoring=sc
 def confusionMatrixString(cm):
     print("Confusion Matrix:")
     print("True Positive; False Positive; True Negative; False Negative")
-    c = str(cm[0][0]) + "            " + str(cm[0][1]) + "              " + str(cm[1][0]) + "             " + str(cm[1][1])
+    c = str(cm[0][0]) + "            " + str(cm[0][1]) + "              " + str(cm[1][1]) + "             " + str(cm[1][0])
     return c
 
 def accuracyString(r):
