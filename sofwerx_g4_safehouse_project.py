@@ -249,9 +249,9 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
 classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
-classifier.fit(X_train, y_train)
+c = classifier.fit(X_train, y_train)
 
-y_pred = classifier.predict(X_test)
+y_pred = c.predict(X_test)
 
 cm = confusion_matrix(y_test, y_pred)
 result = c.score(X_test, y_test)
