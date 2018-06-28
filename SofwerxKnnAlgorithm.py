@@ -31,6 +31,12 @@ class SofwerxKnnAlgorithm(object):
     def __init__(self, path1, path2):
         self.path1 = path1
         self.path2 = path2
+        domoticzDf = self.formatDomoticz(path1)
+        iftttDf = self.formatIfttt(path2)
+        df = domoticzDf.append(iftttDf, ignore_index=True) #append the data
+        df = self.binarizeAndOrganize(df)
+        self.kNNAndConfusion(df)
+        
     def parseifttt(self, d, path): #method for reading ifttt files
         listing = os.listdir(path)
         for infile in listing:
@@ -209,16 +215,8 @@ class SofwerxKnnAlgorithm(object):
         df_ifttt = df_ifttt[['_id', 'Sensor Type', 'Sensor State', 'intrusion']]
         df_ifttt = df_ifttt.sort_values(by=['Sensor Type', '_id'])
     
-    
-    def runInitialData(self):    
-        #Parse domoticz files
-        #read from multiple json files in a folder and parse the data
-        
-        domoticzDf = self.formatDomoticz(path1)
-        iftttDf = self.formatIfttt(path2)
-        
-        df = domoticzDf.append(iftttDf, ignore_index=True) #append the data
-        df = df[pd.notnull(df['Sensor State'])]
+    def binarizeAndOrganize(self, dataFrame):
+        df = dataFrame[pd.notnull(dataFrame['Sensor State'])]
         df = df[pd.notnull(df['Sensor Type'])]
         
         df['hour'] = [d.hour for d in df['_id']]
@@ -252,8 +250,10 @@ class SofwerxKnnAlgorithm(object):
         df = df[['intrusion', 'month', 'day', 'hour', 'minute']]
         df = df.join(types)
         df = df.join(states)
-        X = df.iloc[:, 1:28].values
-        y = df.iloc[:, 0:1].values
+        return df
+    def kNNAndConfusion(self, dataFrame):
+        X = dataFrame.iloc[:, 1:28].values
+        y = dataFrame.iloc[:, 0:1].values
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state = 0)
         sc = StandardScaler()
         X_train = sc.fit_transform(X_train)
@@ -311,6 +311,7 @@ class SofwerxKnnAlgorithm(object):
         pd.set_option('display.max_columns', None)
         pd.set_option('date_yearfirst', True)
         pd.set_option('display.max_rows', 2500)
+
     
     def analyzeNewData(self, pathName, fileType):
         pass
@@ -319,4 +320,3 @@ class SofwerxKnnAlgorithm(object):
 path1 = 'C:/Users/maxjf/Summer Internship 2018/Final algorithm' 
 path2 = 'C:/Users/maxjf/Summer Internship 2018/Final algorithm'    
 practice = SofwerxKnnAlgorithm(path1, path2)    
-practice.runInitialData()
